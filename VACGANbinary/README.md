@@ -14,4 +14,6 @@ The 'TEST.py' script generates random samples.
 
 \
 If using this scrip please cite:
+
+\
 Bazrafkan, S., & Corcoran, P. (2018). Versatile Auxiliary Classifier with Generative Adversarial Network (VAC+ GAN), Multi Class Scenarios. arXiv preprint arXiv:1806.07751.
